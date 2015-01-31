@@ -1,0 +1,35 @@
+body{
+	padding-bottom: 50px;
+}
+header{
+	background: #ddd;
+
+}
+header h1, header h4{
+	font-weight: bold;
+}
+header h1{
+	font-size: 50px;
+}
+header h4{
+	font-size: 25px;
+}
+
+.demo-container .container{
+	margin-top: 30px;
+}
+.demo-container .col-lg-1,
+.demo-container .col-lg-2,
+.demo-container .col-lg-3,
+.demo-container .col-lg-4,
+.demo-container .col-lg-5,
+.demo-container .col-lg-6,
+.demo-container .col-lg-7,
+.demo-container .col-lg-8,
+.demo-container .col-lg-9,
+.demo-container .col-lg-10,
+.demo-container .col-lg-11,
+.demo-container .col-lg-12{
+	background-color: #bbb;
+	border: 1px solid #333;
+}
