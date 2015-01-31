@@ -1,2 +1,2 @@
 # bootstrap-formation-files
-just the file that i create when i was recording the formation
+just the files that i create when i was recording the formation
